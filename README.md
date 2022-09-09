@@ -1,5 +1,6 @@
 # ETH-CHECKER-MVP
 A basic prototype to check Ethereum wallet balance from public addresses. 
+
 Built using Kotlin following the Model-View-Presenter architecture by Mobassir Ahsan
 
 # Blog
